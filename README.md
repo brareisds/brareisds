@@ -8,7 +8,7 @@
 ##
 
 <div>
-  <a href='#'>
+  <a href='https://github.com/brareisds'>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brareisds&layout=donut&theme=date_night"/>
 </div>
 
@@ -24,6 +24,6 @@
 ##
 
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/barbara-reis-319b621b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:brareisds@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
